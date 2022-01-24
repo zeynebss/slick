@@ -1,0 +1,39 @@
+.slider{
+   padding-top: 3rem;
+    .slider-content{
+        cursor: grab ;
+        .card-box{
+            width: 470px;
+            height: 450px;
+            border: .6px rgb(218, 215, 215) solid;
+            border-radius: 7px;
+           .card-text{
+               text-align: center;
+               font-family: Georgia, 'Times New Roman', Times, serif;
+            img{
+                width: 200px;
+                margin: 0 auto;
+            }
+            h3{
+            color: green;
+            }
+              span{
+                  color: gray;
+                  font-size: 12px;
+              }
+              .rate{
+                  color: goldenrod;
+              }
+              button{
+                  background-color: green;
+                  border: none;
+                  border-radius: 8px;
+                  color: white;
+                  outline: none;
+                  padding: 8px 10px;
+                  margin-top: 1rem;
+              }
+           }
+        }
+    }
+}

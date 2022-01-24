@@ -1,0 +1,49 @@
+.slider {
+  padding-top: 3rem;
+}
+
+.slider .slider-content {
+  cursor: -webkit-grab;
+  cursor: grab;
+}
+
+.slider .slider-content .card-box {
+  width: 470px;
+  height: 450px;
+  border: 0.6px #dad7d7 solid;
+  border-radius: 7px;
+}
+
+.slider .slider-content .card-box .card-text {
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.slider .slider-content .card-box .card-text img {
+  width: 200px;
+  margin: 0 auto;
+}
+
+.slider .slider-content .card-box .card-text h3 {
+  color: green;
+}
+
+.slider .slider-content .card-box .card-text span {
+  color: gray;
+  font-size: 12px;
+}
+
+.slider .slider-content .card-box .card-text .rate {
+  color: goldenrod;
+}
+
+.slider .slider-content .card-box .card-text button {
+  background-color: green;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  outline: none;
+  padding: 8px 10px;
+  margin-top: 1rem;
+}
+/*# sourceMappingURL=style.css.map */
